@@ -1,0 +1,5 @@
+food
+time
+snake
+scoreboard
+turtle
