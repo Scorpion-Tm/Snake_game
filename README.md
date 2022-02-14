@@ -12,9 +12,16 @@
 </ul>
 </div>
 
-# Install
-<div class="desc" style="background: red;">
-<p>git clone https://github.com/anon-sec/Snake_game.git</p>
-<p>cd Snake game</p>
-<p>pip install -r requirments.txt</p>
-<p>python3 Main.py</p>
+
+## Install
+```bash
+git clone https://github.com/anon-sec/Snake_game.git
+cd Snake_game
+pip3 install -r requirements.txt
+python3 Main.py 
+```
+
+### Contact us
+- Youtube Channel : https://www.youtube.com/channel/UCU-xQ_Z1_HkaZSm-Z9jOs9g
+- Channel Telegram : https://t.me/ANONYMOU52021
+
