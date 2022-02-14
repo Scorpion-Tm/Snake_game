@@ -1,3 +1,5 @@
+[![Python 3.5](https://img.shields.io/badge/Python-3.5-yellow.svg)](http://www.python.org/download/) 
+
 # Snake_game
 <p>Play Our Snake Game :)</p>
 
